@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hi there 👋, I am Kamrul Hasan
+#### I Am Front End React Developer
+![I Am Front End React Developer](https://www.facebook.com/photo/?fbid=2517271618415573&set=a.619008688241885)
 
-<!--
-**skhasancse18344/skhasancse18344** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Skills: HTML,CSS, Bootstrap, Tailwind CSS, JavaScript , React JS,Express JS,Context Api, React Bootstrap, daisy UI, Node JS, Firebase, MongoDB
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on Farazy Hospital Ltd. 
+- 🌱 I’m currently learning Redux 
+- 📫 How to reach me: kamrulhasan30698@gmail.com 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/skhasancse18344)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/kamrul-hasan30698//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/Skhasan789/)  
+
+<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> 
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=https://github.com/skhasancse18344)](https://github.com/ryo-ma/github-profile-trophy)
+
+![Profile views](https://gpvc.arturio.dev/https://github.com/skhasancse18344)  
