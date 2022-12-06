@@ -3,7 +3,7 @@
 ![I Am Front End React Developer](https://i.ibb.co/ngMQBzJ/306621775-2517271688415566-3553410359652747653-n.jpg)
 
 
-Skills: HTML,CSS, Bootstrap, Tailwind CSS, JavaScript , React JS,Express JS,Context Api, React Bootstrap, daisy UI, Node JS, Firebase, MongoDB
+#### Skills: HTML,CSS, Bootstrap, Tailwind CSS, JavaScript , React JS,Express JS,Context Api, React Bootstrap, daisy UI, Node JS, Firebase, MongoDB
 
 - 🔭 I’m currently working on Farazy Hospital Ltd. 
 - 🌱 I’m currently learning Redux 
