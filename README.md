@@ -14,6 +14,4 @@ Skills: HTML,CSS, Bootstrap, Tailwind CSS, JavaScript , React JS,Express JS,Cont
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=https://github.com/skhasancse18344)](https://github.com/ryo-ma/github-profile-trophy)
-
-![Profile views](https://gpvc.arturio.dev/https://github.com/skhasancse18344)  
+ 
