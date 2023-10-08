@@ -1,5 +1,5 @@
 ![MasterHead](https://jayamwebsolutions.com/img/website.gif)
-<h1 align="center">Hi 👋, I'm Md. Kamrul Hasan</h1>
+<h1 align="center">Hi 👋, I'm Kamrul Hasan</h1>
 <h3 align="center">A passionate Full Stack Web Developer from Bangladesh</h3>
 <img align="right" alt="Coding" width="400" src="https://i.ibb.co/WDCj6q4/381016742-2827799034029495-2072294636296105541-n.jpg">
 
@@ -19,11 +19,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/asifsikder23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="asifsikder23" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/asifsikder23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="asifsikder23" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/user:21291980" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="user:21291980" height="30" width="40" /></a>
-<a href="https://fb.com/asifullahsikder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="asifullahsikder" height="30" width="40" /></a>
-<a href="https://instagram.com/asifullahsikder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="asifullahsikder" height="30" width="40" /></a>
+
+<a href="https://www.linkedin.com/in/kamrul-hasan30/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kamrul-hasan30" height="30" width="40" /></a>
+
+<a href="https://www.facebook.com/Skhasan789/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Skhasan789" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
