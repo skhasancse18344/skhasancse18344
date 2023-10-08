@@ -3,21 +3,19 @@
 <h3 align="center">A passionate Full Stack Web Developer from Bangladesh</h3>
 <img align="right" alt="Coding" width="400" src="https://i.ibb.co/WDCj6q4/381016742-2827799034029495-2072294636296105541-n.jpg">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=asifsikder23&label=Profile%20views&color=0e75b6&style=flat" alt="asifsikder23" /> </p>
 
-<p align="left"> <a href="https://twitter.com/asifsikder23" target="blank"><img src="https://img.shields.io/twitter/follow/asifsikder23?logo=twitter&style=for-the-badge" alt="asifsikder23" /></a> </p>
 
-- 🔭 I’m currently working on [ScheduPlannr](https://github.com/asifsikder23/ScheduPlannr-client)
+- 🔭 I’m currently working for [Creative IT Institute](https://www.creativeitinstitute.com/)
 
-- 🌱 I’m currently learning **Typescript and Redux**
+- 🌱 I’m currently learning **Mysql and Typescript**
 
-- 👨‍💻 All of my projects are available at [https://asifullahsikder-58465.web.app/](https://asifullahsikder-58465.web.app/)
+- 👨‍💻 All of my projects are available at [https://kamrulhasan30698.netlify.app/](https://kamrulhasan30698.netlify.app/)
 
-- 💬 Ask me about **React, MERN**
+- 💬 Ask me about ** MERN,Typescript, Mongoose, Mysql, Sequelize**
 
-- 📫 How to reach me **asifsikder23@gmail.com**
+- 📫 How to reach me **kamrulhasan30698@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/18ubG-0IT5cAFk9Xez0w0E-_VsQEkgS4o/view](https://drive.google.com/file/d/18ubG-0IT5cAFk9Xez0w0E-_VsQEkgS4o/view)
+- 📄 Know about my experiences [https://github.com/skhasancse18344](https://github.com/skhasancse18344)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
