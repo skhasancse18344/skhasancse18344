@@ -5,13 +5,13 @@
 
 
 
-- 🔭 I’m currently working for [Creative IT Institute](https://www.creativeitinstitute.com/)
+- 🔭 I’m currently working for [JMI Group](https://www.jmigroup-bd.com/)
 
-- 🌱 I’m currently learning **Mysql and Typescript**
+- 🌱 I’m currently learning **PostgreSql,Prisma**
 
 - 👨‍💻 All of my projects are available at [https://kamrulhasan30698.netlify.app/](https://kamrulhasan30698.netlify.app/)
 
-- 💬 Ask me about ** MERN,Typescript, Mongoose, Mysql, Sequelize**
+- 💬 Ask me about ** MERN,Typescript, Mongoose, Mysql, Sequelize,Next js, Vue js**
 
 - 📫 How to reach me **kamrulhasan30698@gmail.com**
 
