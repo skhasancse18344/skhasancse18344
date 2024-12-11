@@ -1,3 +1,4 @@
+[![Linkedin](https://github.com/kzamanbd/kzamanbd/blob/master/gitartwork.svg)](https://www.linkedin.com/in/kzamanbd)
 ![MasterHead](https://jayamwebsolutions.com/img/website.gif)
 <h1 align="center">Hi 👋, I'm Kamrul Hasan</h1>
 <h3 align="center">A passionate Full Stack Web Developer from Bangladesh</h3>
