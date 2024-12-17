@@ -1,6 +1,7 @@
 name: Git Artwork SVG
 on:
-  push:
+  schedule: # Execute every week
+    - cron: "0 0 * * 0"
 jobs:
   build:
     name: Make gitartwork SVG
