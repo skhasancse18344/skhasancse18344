@@ -1,4 +1,4 @@
-[![Linkedin](https://github.com/skhasancse18344/skhasancse18344/blob/master/gitartwork.svg)](https://www.linkedin.com/in/kamrul-hasan30)
+[![Linkedin](https://raw.githubusercontent.com/skhasancse18344/skhasancse18344/master/gitartwork.svg)](https://www.linkedin.com/in/kamrul-hasan30)
 
 <!-- ![MasterHead](https://jayamwebsolutions.com/img/website.gif) -->
 
