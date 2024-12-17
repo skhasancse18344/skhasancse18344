@@ -2,7 +2,7 @@
 ![MasterHead](https://jayamwebsolutions.com/img/website.gif)
 
 <h1 align="center">Hi 👋, I'm Kamrul Hasan</h1>
-<h3 align="center">A passionate Full Stack Web Developer from Bangladesh</h3>
+<h3 align="center">A passionate Software Engineer from Bangladesh</h3>
 <img align="right" alt="Coding" width="400" src="https://i.ibb.co.com/xF80Q1f/blue-and-White-Modern-Facebook-Profile-Picture-1.png">
 
 - 🔭 I’m currently working for [JMI Group](https://www.jmigroup-bd.com/)
