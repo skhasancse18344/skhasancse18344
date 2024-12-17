@@ -1,5 +1,6 @@
 [![Linkedin](https://github.com/skhasancse18344/skhasancse18344/blob/master/gitartwork.svg)](https://www.linkedin.com/in/kamrul-hasan30)
-![MasterHead](https://jayamwebsolutions.com/img/website.gif)
+
+<!-- ![MasterHead](https://jayamwebsolutions.com/img/website.gif) -->
 
 <h1 align="center">Hi 👋, I'm Kamrul Hasan</h1>
 <h3 align="center">A passionate Software Engineer from Bangladesh</h3>
