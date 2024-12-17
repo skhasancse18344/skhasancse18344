@@ -2,7 +2,7 @@
 ![MasterHead](https://jayamwebsolutions.com/img/website.gif)
 <h1 align="center">Hi 👋, I'm Kamrul Hasan</h1>
 <h3 align="center">A passionate Full Stack Web Developer from Bangladesh</h3>
-<img align="right" alt="Coding" width="400" src="[https://i.ibb.co/WDCj6q4/381016742-2827799034029495-2072294636296105541-n.jpg](https://i.ibb.co.com/z41tV3z/blue-and-White-Modern-Facebook-Profile-Picture.png)">
+<img align="right" alt="Coding" width="400" src="https://i.ibb.co.com/z41tV3z/blue-and-White-Modern-Facebook-Profile-Picture.png">
 
 
 
