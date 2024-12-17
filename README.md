@@ -1,10 +1,9 @@
 [![Linkedin](https://github.com/skhasancse18344/skhasancse18344/blob/master/gitartwork.svg)](https://www.linkedin.com/in/kamrul-hasan30)
 ![MasterHead](https://jayamwebsolutions.com/img/website.gif)
+
 <h1 align="center">Hi 👋, I'm Kamrul Hasan</h1>
 <h3 align="center">A passionate Full Stack Web Developer from Bangladesh</h3>
 <img align="right" alt="Coding" width="400" src="https://i.ibb.co.com/z41tV3z/blue-and-White-Modern-Facebook-Profile-Picture.png">
-
-
 
 - 🔭 I’m currently working for [JMI Group](https://www.jmigroup-bd.com/)
 
