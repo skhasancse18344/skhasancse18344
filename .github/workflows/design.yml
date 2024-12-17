@@ -1,0 +1,17 @@
+name: Git Artwork SVG
+on:
+  schedule: # Execute every week
+    - cron: "0 0 * * 0"
+jobs:
+  build:
+    name: Make gitartwork SVG
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: jasineri/gitartwork@v1
+        with:
+          # Use this username's contribution graph
+          user_name: skhasancse18344
+          # Text on contribution graph
+          text: HASAN
+      - uses: jasineri/simple-push-action@v1
