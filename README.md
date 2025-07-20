@@ -8,6 +8,10 @@
 <p align="center">
   <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=skhasancse18344&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" />
 </p>
+<br />
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=skhasancse18344&show_icons=true&locale=en&layout=compact" alt="skhasancse18344" /></p>
+
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=skhasancse18344&show_icons=true&locale=en" alt="skhasancse18344" /></p>
 
 ## :mailbox: Reach me out
 
