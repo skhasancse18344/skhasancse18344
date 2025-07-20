@@ -10,7 +10,11 @@
 </p>
 <br />
 <p align="center">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=skhasancse18344&show_icons=true&locale=en&layout=compact" alt="skhasancse18344" />
+  <img 
+    width="50%" 
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=skhasancse18344&show_icons=true&locale=en&layout=compact&theme=tokyonight" 
+    alt="skhasancse18344" 
+  />
 </p>
 
 <br />
