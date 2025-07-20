@@ -13,7 +13,7 @@
 
 <br />
 
-[<p align="center"><img height="75" src="https://github.com/skhasancse18344/skhasancse18344/blob/main/images/icons/Linkedin.png">](https://www.linkedin.com/in/kamrul-hasan30/)[<img height="75" src="https://github.com/skhasancse18344/skhasancse18344/blob/main/images/icons/Facebook.png">](https://www.facebook.com/Skhasan789/)
+[<p align="center"><img height="75" src="https://github.com/skhasancse18344/skhasancse18344/blob/main/images/icons/Linkedin.png">](https://www.linkedin.com/in/kamrul-hasan30/)[<img height="75" src="https://github.com/skhasancse18344/skhasancse18344/blob/main/images/icons/Facebook.png">](https://www.facebook.com/frow.zy.7/)
 
 <!-- [<img height="75" src="https://github.com/skhasancse18344/skhasancse18344/blob/main/images/icons/Twitter.png"> </p>](https://twitter.com/_mir_hussain_) -->
 
@@ -26,7 +26,7 @@
 <img src="https://github.com/skhasancse18344/skhasancse18344/blob/main/images/icons/HTML.png"/>
 <img src="https://github.com/skhasancse18344/skhasancse18344/blob/main/images/icons/css.png"/>
 <img src="https://github.com/skhasancse18344/skhasancse18344/blob/main/images/icons/JavaScript.png"/>
->
+
 <img src="https://github.com/skhasancse18344/skhasancse18344/blob/main/images/icons/c.png"/>
 <img src="https://github.com/skhasancse18344/skhasancse18344/blob/main/images/icons/cpp.png"/>
 </p>
