@@ -24,7 +24,7 @@
 <img src="https://github.com/skhasancse18344/skhasancse18344/blob/main/images/icons/HTML.png"/>
 <img src="https://github.com/skhasancse18344/skhasancse18344/blob/main/images/icons/css.png"/>
 <img src="https://github.com/skhasancse18344/skhasancse18344/blob/main/images/icons/JavaScript.png"/>
-<img src="https://github.com/skhasancse18344/skhasancse18344/blob/main/images/icons/python.png"/>
+>
 <img src="https://github.com/skhasancse18344/skhasancse18344/blob/main/images/icons/c.png"/>
 <img src="https://github.com/skhasancse18344/skhasancse18344/blob/main/images/icons/cpp.png"/>
 </p>
@@ -42,8 +42,8 @@
 <img src="https://github.com/skhasancse18344/skhasancse18344/blob/main/images/icons/mongo.png"/>
 </p><br/>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=skhasancse18344&show_icons=true&locale=en&layout=compact" alt="skhasancse18344" /></p>
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=skhasancse18344&show_icons=true&locale=en&layout=compact" alt="skhasancse18344" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=skhasancse18344&show_icons=true&locale=en" alt="skhasancse18344" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=skhasancse18344&" alt="skhasancse18344" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=skhasancse18344&" alt="skhasancse18344" /></p> -->
