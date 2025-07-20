@@ -45,20 +45,17 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original.svg" alt="prisma" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="sql" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="50" height="50"/>
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="sql" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="vuejs" width="50" height="50"/>
   <img src="https://github.com/skhasancse18344/skhasancse18344/blob/main/images/icons/react.png"/>
   <img src="https://github.com/skhasancse18344/skhasancse18344/blob/main/images/icons/redux.png"/>
   <img src="https://github.com/skhasancse18344/skhasancse18344/blob/main/images/icons/sass.png"/>
   <img src="https://github.com/skhasancse18344/skhasancse18344/blob/main/images/icons/tailwind.png"/>
   <img src="https://github.com/skhasancse18344/skhasancse18344/blob/main/images/icons/Bootsrap.png"/>
-</p>
-
-<p align="center">
   <img src="https://github.com/skhasancse18344/skhasancse18344/blob/main/images/icons/firebase.png"/>
   <img src="https://github.com/skhasancse18344/skhasancse18344/blob/main/images/icons/node.png"/>
   <img src="https://github.com/skhasancse18344/skhasancse18344/blob/main/images/icons/express.png"/>
