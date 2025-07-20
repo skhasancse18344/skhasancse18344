@@ -10,7 +10,7 @@
 </p>
 <br />
 <div style="display: flex;  align-items:center; gap: 20px; flex-wrap: wrap;">
-  <img width="100%" height="100%" src="https://github-readme-stats.vercel.app/api/top-langs?username=skhasancse18344&show_icons=true&locale=en&layout=compact" alt="skhasancse18344" />
+  <img width="100%" height="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=skhasancse18344&show_icons=true&locale=en&layout=compact" alt="skhasancse18344" />
   
 </div>
 
