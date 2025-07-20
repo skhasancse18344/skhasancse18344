@@ -67,8 +67,6 @@
 
 ### 📫 How to reach me **kamrulhasan30698@gmail.com**
 
-### 📄 Know about my experiences [https://github.com/skhasancse18344](https://github.com/skhasancse18344)
-
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=skhasancse18344&show_icons=true&locale=en&layout=compact" alt="skhasancse18344" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=skhasancse18344&show_icons=true&locale=en" alt="skhasancse18344" /></p>
