@@ -11,9 +11,21 @@
 
 ## :mailbox: Reach me out
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/kamrul-hasan30/" target="_blank">
+    <img height="60" src="https://github.com/skhasancse18344/skhasancse18344/blob/main/images/icons/Linkedin.png" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.facebook.com/frow.zy.7/" target="_blank">
+    <img height="60" src="https://github.com/skhasancse18344/skhasancse18344/blob/main/images/icons/Facebook.png" alt="Facebook"/>
+  </a>
+  <!-- Add more icons as needed below -->
+</p>
+
+## :mailbox: Reach me out
+
 <br />
 
-[<img height="75" src="https://github.com/skhasancse18344/skhasancse18344/blob/main/images/icons/Linkedin.png">](https://www.linkedin.com/in/kamrul-hasan30/)[<img height="75" src="https://github.com/skhasancse18344/skhasancse18344/blob/main/images/icons/Facebook.png">](https://www.facebook.com/frow.zy.7/)
+<p align="center">[<img height="75" src="https://github.com/skhasancse18344/skhasancse18344/blob/main/images/icons/Linkedin.png"></p>](https://www.linkedin.com/in/kamrul-hasan30/)[<img height="75" src="https://github.com/skhasancse18344/skhasancse18344/blob/main/images/icons/Facebook.png">](https://www.facebook.com/frow.zy.7/)</p>
 
 <!-- [<img height="75" src="https://github.com/skhasancse18344/skhasancse18344/blob/main/images/icons/Twitter.png"> </p>](https://twitter.com/_mir_hussain_) -->
 
