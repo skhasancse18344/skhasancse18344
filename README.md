@@ -48,6 +48,20 @@
 <img src="https://github.com/skhasancse18344/skhasancse18344/blob/main/images/icons/mongo.png"/>
 </p><br/>
 
+## :eyes: Current overview
+
+### 🔭 I’m currently working for [JMI Group](https://www.jmigroup-bd.com/)
+
+### 🌱 I’m currently learning **PostgreSql,Prisma**
+
+### 👨‍💻 All of my projects are available at [https://kamrulhasan30698.netlify.app/](https://kamrulhasan30698.netlify.app/)
+
+### 💬 Ask me about ** MERN Technology,Typescript, Mongoose, Mysql, Sequelize,Next js, Vue js**
+
+### 📫 How to reach me **kamrulhasan30698@gmail.com**
+
+### 📄 Know about my experiences [https://github.com/skhasancse18344](https://github.com/skhasancse18344)
+
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=skhasancse18344&show_icons=true&locale=en&layout=compact" alt="skhasancse18344" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=skhasancse18344&show_icons=true&locale=en" alt="skhasancse18344" /></p>
