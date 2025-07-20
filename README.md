@@ -35,6 +35,15 @@
 <img src="https://github.com/skhasancse18344/skhasancse18344/blob/main/images/icons/cpp.png"/>
 </p>
 <p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original.svg" alt="prisma" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="sql" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="vuejs" width="40" height="40"/>
+</p>
+
+<p align="center">
 <img src="https://github.com/skhasancse18344/skhasancse18344/blob/main/images/icons/react.png"/>
 <img src="https://github.com/skhasancse18344/skhasancse18344/blob/main/images/icons/redux.png"/>
 <img src="https://github.com/skhasancse18344/skhasancse18344/blob/main/images/icons/sass.png"/>
