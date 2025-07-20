@@ -21,14 +21,6 @@
   <!-- Add more icons as needed below -->
 </p>
 
-## :mailbox: Reach me out
-
-<br />
-
-<p align="center">[<img height="75" src="https://github.com/skhasancse18344/skhasancse18344/blob/main/images/icons/Linkedin.png"></p>](https://www.linkedin.com/in/kamrul-hasan30/)[<img height="75" src="https://github.com/skhasancse18344/skhasancse18344/blob/main/images/icons/Facebook.png">](https://www.facebook.com/frow.zy.7/)</p>
-
-<!-- [<img height="75" src="https://github.com/skhasancse18344/skhasancse18344/blob/main/images/icons/Twitter.png"> </p>](https://twitter.com/_mir_hussain_) -->
-
 <br />
 
 ## :computer: Technologies that I know
