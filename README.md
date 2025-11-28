@@ -68,11 +68,11 @@
 
 ### 🌱 I’m currently learning **PostgreSql,Prisma**
 
-### 👨‍💻 All of my projects are available at [https://kamrulhasan30698.netlify.app/](https://kamrulhasan30698.netlify.app/)
+### 👨‍💻 All of my projects are available at [(https://kamrulhasancse98.vercel.app/)](https://kamrulhasancse98.vercel.app/)
 
-### 💬 Ask me about ** MERN Technology,Typescript, Mongoose, Mysql, Sequelize,Next js, Vue js**
+### 💬 Ask me about ** MERN Technology,Typescript, Mongoose, Mysql, Sequelize,Next js, Vue js,Prisma,PostgreSQL,Nest js**
 
-### 📫 How to reach me **kamrulhasan30698@gmail.com**
+### 📫 How to reach me **kamrulhasancse98@gmail.com**
 
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=skhasancse18344&show_icons=true&locale=en&layout=compact" alt="skhasancse18344" /></p>
 
