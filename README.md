@@ -24,11 +24,12 @@ Building Enterprise ERP Solutions • Oracle PL/SQL • Vue.js • Laravel • N
 </p>
 
 </div>
-<a href="https://www.linkedin.com/in/kamrul-hasan30">
+
+<div>
+    <a href="https://www.linkedin.com/in/kamrul-hasan30">
     <img src="https://raw.githubusercontent.com/skhasancse18344/skhasancse18344/master/gitartwork.svg" width="100%" />
 </a>
-
-
+</div>
 ---
 
 # 🚀 About Me
