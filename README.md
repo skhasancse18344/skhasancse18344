@@ -176,17 +176,13 @@ alt="GitHub Contribution Artwork"/>
 
 <p align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=skhasancse18344&show_icons=true&theme=tokyonight&hide_border=true"/>
+
 
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=skhasancse18344&theme=tokyonight&hide_border=true"/>
 
 </p>
 
-<p align="center">
 
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=skhasancse18344&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
 
 ---
 
