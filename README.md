@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:00C9FF,100:7F00FF&height=220&section=header&text=Kamrul%20Hasan&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Senior%20Software%20Engineer%20|%20Oracle%20PL/SQL%20Developer%20|%20Full%20Stack%20Developer&descAlignY=58"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:00C9FF,100:7F00FF&height=220&section=header&text=Kamrul%20Hasan&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20|%20Oracle%20PL/SQL%20Developer%20|%20Full%20Stack%20Developer&descAlignY=58"/>
 
 <h2>
 Hi 👋 I'm <b>Kamrul Hasan</b>
@@ -56,7 +56,6 @@ Building Enterprise ERP Solutions • Oracle Database • Laravel • Vue.js •
 
 <div align="center">
 
-### ⚡ My GitHub Contribution Artwork
 
 <a href="https://www.linkedin.com/in/kamrul-hasan30">
 
@@ -66,7 +65,7 @@ width="100%"
 alt="GitHub Contribution Artwork"/>
 
 </a>
-
+</b>
 </div>
 
 
