@@ -6,8 +6,8 @@
 Hi 👋 I'm <b>Kamrul Hasan</b>
 </h2>
 
-<p>
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&center=true&vCenter=true&width=900&lines=Senior+Software+Engineer;10%2B+Years+Oracle+PL%2FSQL+Experience;Enterprise+ERP+Developer;Vue.js+%7C+Next.js+%7C+Laravel+%7C+NestJS;Oracle+Database+%7C+PostgreSQL+%7C+Prisma" />
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&center=true&vCenter=true&width=900&lines=Software+Engineer;Full+Stack+Developer;Oracle+PL%2FSQL+Developer;PHP+%7C+Laravel+Developer;Vue.js+%7C+Next.js+%7C+NestJS;Oracle+Database+%7C+PostgreSQL+%7C+Prisma" />
 </p>
 
 <p>
